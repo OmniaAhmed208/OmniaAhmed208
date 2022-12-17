@@ -1,4 +1,4 @@
-# Hi, I'm Omnia 👋 👩🏾‍💻 👨‍💻
+# Hi, I'm Omnia 👋 👩🏾‍💻
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
@@ -19,7 +19,9 @@
    - Sharing updates on <a href="linkedin.com/in/omnia-ahmed-686729247">LinkedIn</a> 💼
    - Sharing updates on <a href="https://www.behance.net/omniaahmed48">Behance</a> 👨‍💻
 
-<!--
+
+
+<!-- Comments
 ### Hi there 👋
 **OmniaAhmed208/OmniaAhmed208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
