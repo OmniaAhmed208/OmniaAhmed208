@@ -1,8 +1,10 @@
 # Hi, I'm Omnia 👋 👩🏾‍💻
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIWVHCXlj9QS_ciw4vnewBaUktoGmJofdcTQ&usqp=CAU" alt="img" width="100%">
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-- 🔭 I’m graduated from faculty of science of computer science department
+## About me
+- 🔭 I’m graduated from faculty of science of computer science department.
+- I’m Frontend Developer 
 - 🔭 I’m currently training in information technology institute (iti) <br>
       for Full Stack Web Dev PHP 😄
 
@@ -13,10 +15,10 @@
    * Bootstrap
    * JavaScript
    
-  ## Find me around the web 🌎: <!--<a href="https://github.com/OmniaAhmed208"><img align="left" width="150" height="150" src="https://dev.to/sloan"></a>-->
+  ## Find me around the web 🌎: <!--<a href="https://github.com/OmniaAhmed208"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/raw/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>-->
    - Sharing updates on <a href="https://www.behance.net/omniaahmed48">Behance</a> 👨‍💻
    - Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
-
+<a href="https://github.com/OmniaAhmed208"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/raw/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
 <!--
 ### Hi there 👋
