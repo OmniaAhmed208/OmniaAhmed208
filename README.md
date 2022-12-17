@@ -9,8 +9,8 @@
       for Full Stack Web Dev PHP 😄
 
 ## Skills
-   * HTML / CSS
-   * HTML5 / CSS3
+   * HTML / CSS                      * jhj
+   * HTML5 / CSS3                    * kj
    * JQuery
    * Bootstrap
    * JavaScript
