@@ -1,8 +1,7 @@
-### Hi there 👋
+# Hi, I'm Omnia 👋 👩🏾‍💻
 - 🔭 I’m graduated from faculty of science of computer science department
 - 🔭 I’m currently training in information technology institute (iti) <br>
       for Full Stack Web Dev PHP 😄
-<hr>
 
 ## Skills
    * HTML / CSS
@@ -11,11 +10,13 @@
    * Bootstrap
    * JavaScript
    
-<hr>
+## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+- Sharing updates on <a href="https://www.behance.net/omniaahmed48">Behance</a> 👨‍💻
+- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
 
-<a href="https://github.com/OmniaAhmed208"><img src="[https://icons8.com/icon/13930/linkedin](https://icons8.com/icon/13912/facebook)" alt="linkedIn"></a>
 
 <!--
+### Hi there 👋
 **OmniaAhmed208/OmniaAhmed208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
