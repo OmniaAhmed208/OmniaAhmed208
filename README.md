@@ -16,7 +16,7 @@
    * JavaScript
    
   ## Find me around the web 🌎: <a href="https://github.com/OmniaAhmed208"><img align="left" width="150" height="120" src="https://img.icons8.com/color/2x/laptop.png"></a>
-   - Sharing updates on <a href="linkedin.com/in/omnia-ahmed-686729247">LinkedIn</a> 💼
+   - Sharing updates on <a href="linkedin.com/in/omnia-ahmed-686729247">LinkedIn</a> 💼 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="techmakers96" height="10" width="20" />
    - Sharing updates on <a href="https://www.behance.net/omniaahmed48">Behance</a> 👨‍💻
 
 
