@@ -5,7 +5,7 @@
 ## About me
 - 🔭 I’m graduated from faculty of science of computer science department.
 - I’m Frontend Developer 
-- 🔭 I’m currently training in information technology institute (iti) <br>
+- <img src="https://img.icons8.com/color/2x/female-working-with-a-laptop.png"> I’m currently training in information technology institute (iti) <br>
       for Full Stack Web Dev PHP 😄
 
 ## Skills
