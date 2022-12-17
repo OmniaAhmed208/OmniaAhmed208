@@ -1,4 +1,7 @@
 # Hi, I'm Omnia 👋 👩🏾‍💻
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIWVHCXlj9QS_ciw4vnewBaUktoGmJofdcTQ&usqp=CAU" alt="img">
+
 - 🔭 I’m graduated from faculty of science of computer science department
 - 🔭 I’m currently training in information technology institute (iti) <br>
       for Full Stack Web Dev PHP 😄
@@ -10,7 +13,7 @@
    * Bootstrap
    * JavaScript
    
-  ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://dev.to/sloan"></a>
+  ## Find me around the web 🌎: <!--<a href="https://github.com/OmniaAhmed208"><img align="left" width="150" height="150" src="https://dev.to/sloan"></a>-->
    - Sharing updates on <a href="https://www.behance.net/omniaahmed48">Behance</a> 👨‍💻
    - Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
 
