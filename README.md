@@ -11,8 +11,8 @@
    * JavaScript
    
   ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-    - Sharing updates on <a href="https://www.behance.net/omniaahmed48">Behance</a> 👨‍💻
-    - Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+   - Sharing updates on <a href="https://www.behance.net/omniaahmed48">Behance</a> 👨‍💻
+   - Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
 
 
 <!--
