@@ -1,6 +1,6 @@
 # Hi, I'm Omnia 👋 👩🏾‍💻
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIWVHCXlj9QS_ciw4vnewBaUktoGmJofdcTQ&usqp=CAU" alt="img">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIWVHCXlj9QS_ciw4vnewBaUktoGmJofdcTQ&usqp=CAU" alt="img" width="100%">
 
 - 🔭 I’m graduated from faculty of science of computer science department
 - 🔭 I’m currently training in information technology institute (iti) <br>
