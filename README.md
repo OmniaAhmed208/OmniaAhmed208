@@ -15,7 +15,7 @@
    * Bootstrap
    * JavaScript
    
-  ## Find me around the web 🌎: <a href="https://github.com/OmniaAhmed208"><img align="left" width="150" height="120" src="https://img.icons8.com/color/2x/female-working-with-a-laptop.png"></a>
+  ## Find me around the web 🌎: <a href="https://github.com/OmniaAhmed208"><img align="left" width="150" height="120" src="https://img.icons8.com/color/2x/laptop.png"></a>
    - Sharing updates on <a href="https://www.behance.net/omniaahmed48">Behance</a> 👨‍💻
    - Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
 
