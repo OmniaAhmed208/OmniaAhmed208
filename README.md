@@ -4,9 +4,9 @@
 
 ## About me
 - ✌️ I’m graduated from faculty of science, computer science department.
-- 👨‍💻 I’m Frontend Developer 
+- 👨‍💻 I’m Full Stack Developer.
 - 💻 I’m currently training in information technology institute (iti) <br>
-      for Full Stack Web Dev PHP 😄
+      for Full Stack Web Dev using PHP 😄
 
 ## Skills
    * HTML / CSS
