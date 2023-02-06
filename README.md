@@ -20,10 +20,7 @@
    * MongoDB
    * Wordpress
    * PHP
-   * Laravel 
-   <br>
-   [![My Skills](https://skills.thijs.gg/icons?i=html,css,html5,css3,figma&theme=light)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,html5,css3,js,jquery,bootstrap,nodejs,php,laravel,figma&theme=light)](https://skills.thijs.gg)
+   * Laravel
    
   ## Find me around the web 🌎: <a href="https://github.com/OmniaAhmed208"><img align="left" width="150" height="120" src="https://img.icons8.com/color/2x/laptop.png"></a>
    - Sharing updates on <a href="linkedin.com/in/omnia-ahmed-686729247">LinkedIn</a> 💼
