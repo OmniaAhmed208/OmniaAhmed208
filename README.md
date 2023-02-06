@@ -9,7 +9,7 @@
       for Full Stack Web Dev using PHP 😄
 
 ## Skills
-   * HTML / CSS
+<!--    * HTML / CSS
    * HTML5 / CSS3
    * JQuery
    * Bootstrap
@@ -17,7 +17,10 @@
    * MySql
    * Node.js
    * Express
-   * MongoDB
+   * MongoDB -->
+   <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/html-icon.svg" alt="Html Icon" />
+   <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/css-icon.svg" alt="CSS Icon" />
+   <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" />
    
   ## Find me around the web 🌎: <a href="https://github.com/OmniaAhmed208"><img align="left" width="150" height="120" src="https://img.icons8.com/color/2x/laptop.png"></a>
    - Sharing updates on <a href="linkedin.com/in/omnia-ahmed-686729247">LinkedIn</a> 💼
