@@ -84,9 +84,12 @@
    - Sharing updates on <a href="linkedin.com/in/omnia-ahmed-686729247">LinkedIn</a> 💼
    -  All of my projects are available at <a href="https://www.behance.net/omniaahmed48">Behance</a> 👨‍💻
 
-
+<br><br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmniaAhmed208&theme=default)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omniaahmed208&show_icons=true&locale=en" alt="omniaahmed208" /></p>
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omniaahmed208&" alt="omniaahmed208" /></p> -->
 <!-- Comments
 ### Hi there 👋
 **OmniaAhmed208/OmniaAhmed208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
