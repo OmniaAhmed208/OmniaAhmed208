@@ -87,6 +87,8 @@
 <br><br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmniaAhmed208&theme=default)
 
+![](http://github-stats.vercel.app/api/cards/repos-per-language?username=OmniaAhmed208&theme=default)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omniaahmed208&show_icons=true&locale=en" alt="omniaahmed208" /></p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omniaahmed208&" alt="omniaahmed208" /></p> -->
