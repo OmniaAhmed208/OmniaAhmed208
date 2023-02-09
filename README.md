@@ -14,7 +14,7 @@
    * JQuery ====================
    * Bootstrap
    * JavaScript
-   * TypeScript ===============
+   * TypeScript
    * MySql
    * Node.js
    * Express
@@ -23,7 +23,7 @@
    * PHP
    * Laravel
  -->
-
+## Github Status
 <p align="left">
        <!--  ============================ frontend ==============================  -->
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -85,9 +85,11 @@
    -  All of my projects are available at <a href="https://www.behance.net/omniaahmed48">Behance</a> 👨‍💻
 
 <br><br>
+<center>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OmniaAhmed208&theme=default)
-
-<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omniaahmed208&show_icons=true&locale=en" alt="omniaahmed208" /></span>
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OmniaAhmed208&theme=github)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omniaahmed208&show_icons=true&locale=en" alt="omniaahmed208" /></p>
+</center>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omniaahmed208&" alt="omniaahmed208" /></p> -->
 <!-- Comments
