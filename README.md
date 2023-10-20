@@ -5,7 +5,7 @@
 ## About me
 - ✌️ I’m graduated from faculty of science, computer science department.
 - 👨‍💻 I’m Full Stack Developer.
-- 💻 I’m currently training in information technology institute (iti) <br>
+- 💻 I’m trainned at information technology institute (iti) <br>
       for Full Stack Web Dev using PHP 😄
 
 ## Skills
